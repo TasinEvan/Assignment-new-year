@@ -13,7 +13,7 @@ body {
 .banner {
 
 
-    background: linear-gradient(180deg, #070211 0%, rgba(60, 57, 65, 0) 100%), url('/images/Banner\ Image.png');
+    background: linear-gradient(180deg, #070211 0%, rgba(60, 57, 65, 0) 100%), url('../images/Banner\ Image.png');
     border-radius: 16px;
     background-repeat: no-repeat;
     background-size: contain;
@@ -89,7 +89,7 @@ body {
 .party {
     padding: 30px 70px 50px 30px;
 
-    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('/images/Vectorrr.png');
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Vectorrr.png');
     display: flex;
     justify-content: space-between;
     background-size: cover;
@@ -264,10 +264,11 @@ body {
 
 .details {
     color: rgba(7, 2, 17, 0.60);
-    Ffont-family: Inter;
+    font-family: Inter;
     font-size: 20px;
     font-weight: 400;
 }
 .offer-title{
     padding-top: 50px;
+
 }
